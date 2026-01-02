@@ -1,0 +1,56 @@
+/Users/matthewhughes/development/nology/nology_project_1
+/Users/matthewhughes/development/Verde-Course-Resources
+/Users/matthewhughes/Documents/CS relarn/Mosh C++/Chess
+/Users/matthewhughes/development/nology/react/react-testing-library-lesson
+/Users/matthewhughes/development/personal/MusicPlayer
+/Users/matthewhughes/development/nology/projects/verde-client-project
+/Users/matthewhughes/development/nology/js-ts-challenges
+/Users/matthewhughes/development/nology/projects/nology-ticket-tracker
+/Users/matthewhughes/verde-gs-resources
+/Users/matthewhughes/development/nology/projects/Nology-tech-task
+/Users/matthewhughes/development/nology/projects/movies-api
+/Users/matthewhughes/Documents/Git Projects/BlackJack
+/Users/matthewhughes/rust/fun
+/Users/matthewhughes/development/interview/MostActiveCookie
+/Users/matthewhughes/development/java
+/Users/matthewhughes/development/c++/test
+/Users/matthewhughes/development/nology/projects/Library-Manager
+/Users/matthewhughes/development/nology/typeScript/dom-challenge-starter
+/Users/matthewhughes/development/nology/projects/nology-calculator
+/Users/matthewhughes/development/nology/react/react-api-codealong
+/Users/matthewhughes/development/nology/typeScript/js-ts-testing-codealong
+/Users/matthewhughes/development/nology/projects/todo-spring
+/Users/matthewhughes/development/nology/cli-git-notes
+/Users/matthewhughes/development/AudioTranscriber
+/Users/matthewhughes/development/nology/projects/Other-peaoples-projects/punk-beer-catalogue
+/Users/matthewhughes/development/nology/projects/Other-peaoples-projects/fairground-shooting-gallery
+/Users/matthewhughes/development/nology/projects/movie-api
+/Users/matthewhughes/development/nology/nology-calculator
+/Users/matthewhughes/development/nology/projects/todo
+/Users/matthewhughes/development/nology/snap
+/Users/matthewhughes/development/nology/projects/Other-peaoples-projects/Hangman-project
+/Users/matthewhughes/development/nology/projects/geo-location
+/Users/matthewhughes/development/nology/typeScript/objects-album-challenge
+/Users/matthewhughes/development/nology/projects/nology_project_1
+/Users/matthewhughes/development/nology/projects/ye-old-invaders
+/Users/matthewhughes/development/nology/packages/packages-code-along
+/Users/matthewhughes/development/nology/fiona-book
+/Users/matthewhughes/Documents/Git Projects/Convert
+/Users/matthewhughes/Documents/Git Projects/Tweet-cleaner-and-generator
+/Users/matthewhughes/development/nology/my-test-repo
+/Users/matthewhughes/development/nology/farmyard-streams
+/Users/matthewhughes/development/nology/nology-music-player
+/Users/matthewhughes/development/nology/java-codealong
+/Users/matthewhughes/Documents/PeronsalProjects/blog
+/Users/matthewhughes/Documents/PeronsalProjects/blog 18.57.06
+/Users/matthewhughes/development/nology/java-learning/java-challenges
+/Users/matthewhughes/development/nology/interview-prep/verde-gs-resources
+/Users/matthewhughes/development/nology/java-api/springboot-greeting-bundle
+/Users/matthewhughes/development/nology/springboot-greeting-bundle
+/Users/matthewhughes/development/nology/projects/todos
+/Users/matthewhughes/development/nology/projects/punk-api-project
+/Users/matthewhughes/development/rustlings
+/Users/matthewhughes/StartUp/Transcriber
+/Users/matthewhughes/data-structures-and-algos/gs-codepad-prep
+/Users/matthewhughes/development/nology/react/react-codealong-typescript
+/Users/matthewhughes/development/nology/flex-box-challenge-1
